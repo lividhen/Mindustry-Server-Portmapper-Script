@@ -11,8 +11,11 @@ Feel free to edit these scripts if you need a different mindustry server jar nam
 
 ## Requirements
 Java 8+.
+
 UPnP enabled on your router.
+
 An internet connection, with access to github.
+
 Curl (I think windows and most linux distros have it by default)
 
 ## Dangers
