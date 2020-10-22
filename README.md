@@ -3,6 +3,7 @@
 
 A set of scripts to use UPnP Portmapper (by kaklakariada) To open port 6567 for udp and tcp.
 As the mindustry wiki says, "It is recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. Do your research, and determine which option best fits your needs.", This may suit you if you just want to play with some friends remotly for a little while. I would reccomend atleast using DuckDns or noIP to mask your public IP.
+
 These scripts contain the commands you would use to open the ports with portminer yourself, I have just compiled them into one script for convenience.
 
 ## Usage
